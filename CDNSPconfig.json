@@ -10,7 +10,7 @@
         "Firmware": "5.1.0-0",
         "DeviceID": "0000000000000000",
         "Environment": "lp1",
-        "TitleKeysURL": "http://snip.li/switchtkeys",
+        "TitleKeysURL": "http://snip.li/newkeydb",
         "NspOut": "_NSPOUT"
     }
 }
