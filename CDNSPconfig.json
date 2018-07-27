@@ -7,8 +7,8 @@
     },
     "Values": {
         "Region": "US",
-        "Firmware": "5.1.0-0",
-        "DeviceID": "0000000000000000",
+        "Firmware": "5.1.0-3",
+        "DeviceID": "6065843202480808",
         "Environment": "lp1",
         "TitleKeysURL": "http://snip.li/newkeydb",
         "NspOut": "_NSPOUT"
