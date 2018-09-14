@@ -5,8 +5,9 @@
 # If you know more titlekeys please add to the list yourself, and it will be nice if you could share it with the community too!
 # -Bob
 
-# Thanks to megasharer for organising the list
+# Format: TID(RID)|TKEY|NAME(Optional) (If not given then the name will be "Unknown Title")
 
+# Thanks to megasharer for organising the list
 # The Legend of Zelda: Breath of the Wild
 # DLC Pack 1 (to get fully offline NSP)
 01007ef00011f001|8732f3b1d4de5fe7b0092f9cdddfa308
