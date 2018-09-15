@@ -4015,8 +4015,7 @@ Malaysian: fadzly#4390"""
         update_result = self.update_result
 
         updated = True
-        print(update_result)
-        sys.exit()
+        
         if update_result == "GL":
             urllib.request.urlretrieve(gui_file, gui_file.split("/")[-1])
             urllib.request.urlretrieve(lang_file, "lang.zip")
