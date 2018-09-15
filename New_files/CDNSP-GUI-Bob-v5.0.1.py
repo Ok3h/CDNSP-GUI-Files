@@ -3987,10 +3987,6 @@ Malaysian: fadzly#4390"""
         new_lang_ver = requests.get("https://\
         raw.githubusercontent.com/Bob123a1/\
         CDNSP-GUI-Files/master/language_version.txt".replace(" ", "")).text.replace("\n", "")
-
-
-        new_cdnsp_ver = "5.2"
-##        new_lang_ver = "2.0"
         
         self.new_cdnsp_ver = new_cdnsp_ver
         self.new_lang_ver = new_lang_ver
