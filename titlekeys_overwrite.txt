@@ -17,7 +17,7 @@
 
 # Xenoblade Chronicles  2
 # Brand New Story Content Pack
-0100e95004039001|62f87b7c07002cb3e33d34e733fbf67e
+0100e95004039001|dfc0d972d2ec07d9ef641962f3eb4d5f
 
 # Helpful Items Pack
 0100e95004039005|e58b4f36369c78c3712718b7a8c6208f
