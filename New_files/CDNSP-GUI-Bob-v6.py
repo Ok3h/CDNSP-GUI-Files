@@ -108,6 +108,9 @@ set_lang(chosen_lang)
 if not os.path.isdir("Config"):
     os.mkdir("Config")
 
+if not os.path.isdir("Images"):
+    os.mkdir("Images")
+
 build_text = _("\nBuilding the current state list... Please wait, this may take some time \
 depending on how many games you have.")
 
