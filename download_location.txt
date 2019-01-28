@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/Bob123a1/CDNSP-GUI-Files/master/New_files/CDNSP-GUI-Bob-v6.0.1.py
+https://raw.githubusercontent.com/Bob123a1/CDNSP-GUI-Files/master/New_files/CDNSP-GUI-Bob-v6.0.2.py
 https://github.com/Bob123a1/CDNSP-GUI-Files/raw/master/New_files/lang.zip
